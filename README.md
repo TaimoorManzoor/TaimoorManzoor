@@ -27,7 +27,8 @@ Projects:
 - E-commerce Website
 - Inventory Management System
 - News App
-
+- Analysis Ecommerce Data using Power BI
+  
 Contact:
 Email: Taimoormanzoor2001@gmail.com
 GitHub: TaimoorManzoor
