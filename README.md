@@ -14,7 +14,6 @@ Skills:
 - Git and GitHub
 - Object-oriented programming
 - Data structures and algorithms
-- Problem solving
 - Shopify Website
 - WordPress Website
 
